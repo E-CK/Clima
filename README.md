@@ -6,5 +6,5 @@ El sistema recolecta datos relacionados a la concentración espacial del hardwar
 
 <a href="https://docs.google.com/document/d/1YKQYXWiKjdxsiH8F_v4VzEVOEAI6C6CCJkF0EDg7kkE/edit">Link al anteproyecto</a>
 
-<a href="https://github.com/E-CK/Clima/projects/1">Historias de Usuario</a>
+<a href="https://github.com/E-CK/Clima/projects/1">Historias de Usuario y mock up</a>
 
