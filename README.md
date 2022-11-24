@@ -1,4 +1,4 @@
-# Clima
+# Climax
 Cluster Information Map Extractor
 
 El proyecto CLIMAX (Cluster Information Map Extractor) es una prueba de concepto para el desarrollo de un sistema que permita asistir al mapeo de clústeres industriales o aglomeraciones relacionadas a determinados sectores económicos.
