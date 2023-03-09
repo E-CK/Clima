@@ -1,10 +1,7 @@
-# Climax
-Cluster Information Map Extractor
+# GeCOs
+Gestor de Conocimiento para Observatorios Estratégicos.
 
-El proyecto CLIMAX (Cluster Information Map Extractor) es una prueba de concepto para el desarrollo de un sistema que permita asistir al mapeo de clústeres industriales o aglomeraciones relacionadas a determinados sectores económicos.
-El sistema recolecta datos relacionados a la concentración espacial del hardware industrial, dispositivos embebidos, etc. Para explorar el uso de nuevas tecnologías en el análisis de los clústeres y permitan la recolección de evidencia para mejorar el diseño, la implementación y el seguimiento de políticas públicas orientadas al fomento de clústeres y otras políticas relacionadas.
+Es una aplicación que permita la integración de múltiples fuentes de datos e información a lo largo del tiempo, sobre los eventos, temas de interés o país. Debe tener la capacidad de brindar a usuarios sin experiencia, una curva de aprendizaje mínima e intuitiva. El principal factor de diferenciación con otras aplicaciones será la función de integrar tanto la capacidad para gestionar las referencias bibliográficas con los textos en una única herramienta para analizar y consolidar el contenido antes de estructurar el producto, y así facilitar el proceso de creación documentos que se alineen con las preferencias del lector final. 
 
-<a href="https://docs.google.com/document/d/1YKQYXWiKjdxsiH8F_v4VzEVOEAI6C6CCJkF0EDg7kkE/edit">Link al anteproyecto</a>
 
-<a href="https://github.com/E-CK/Clima/projects/1">Historias de Usuario y demo</a>
 
